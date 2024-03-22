@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build Turtles",
+		"preview": "diy-pwa preview Turtles"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
